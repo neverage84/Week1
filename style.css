@@ -21,11 +21,13 @@ body { background-color: #efeee7;
 
 #main-bio {float:left;
     width: 70%;
+    
 
 }
 
 #contact-info {float: left;
     width: 30%;
+    
 }
 
 #bio-image {float: left;
